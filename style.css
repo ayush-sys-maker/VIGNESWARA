@@ -585,7 +585,7 @@ footer {
 }
 
 .footerlogo img {
-  height: 60px !important; /* Fixed logo size */
+  height: 200px !important; /* Fixed logo size */
   width: auto !important;
 }
 
