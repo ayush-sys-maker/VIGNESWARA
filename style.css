@@ -588,7 +588,7 @@ footer {
   height: 200px !important; /* Fixed logo size */
   width: auto !important;
   margin-left: -50px !important; 
-  margin-top: 250px !important; /* Adjust logo position */
+  margin-top: 200px !important; /* Adjust logo position */
 }
 
 .foottext {
