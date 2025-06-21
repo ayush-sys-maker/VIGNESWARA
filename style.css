@@ -587,6 +587,8 @@ footer {
 .footerlogo img {
   height: 200px !important; /* Fixed logo size */
   width: auto !important;
+  margin-left: -50px !important; 
+  margin-top: 50px !important; /* Adjust logo position */
 }
 
 .foottext {
