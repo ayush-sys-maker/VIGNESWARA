@@ -585,10 +585,10 @@ footer {
 }
 
 .footerlogo img {
-  height: 200px !important; /* Fixed logo size */
+  height: 250px !important; /* Fixed logo size */
   width: auto !important;
-  margin-left: -50px !important; 
-  margin-top: 200px !important; /* Adjust logo position */
+  margin-left: -70px !important; 
+  margin-top: 180px !important; /* Adjust logo position */
 }
 
 .foottext {
