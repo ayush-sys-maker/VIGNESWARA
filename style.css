@@ -567,4 +567,16 @@ margin-top: 100px;
   height: 20px;
 }
 
+html {
+  font-size: 16px; /* Lock base font size */
+  -webkit-text-size-adjust: 100%; /* Prevent iOS text scaling */
+}
+
+body {
+  zoom: 1; /* Reset any browser zoom */
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
 }
