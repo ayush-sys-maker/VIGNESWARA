@@ -579,4 +579,31 @@ body {
   overflow-x: hidden;
 }
 
+
+footer {
+  font-size: 14px !important; /* Lock footer text size */
+}
+
+.footerlogo img {
+  height: 60px !important; /* Fixed logo size */
+  width: auto !important;
+}
+
+.foottext {
+  font-size: 14px !important; /* Consistent text sizing */
+}
+
+.follow i {
+  font-size: 18px !important; /* Social icon size */
+}
+
+.location iframe {
+  width: 100% !important;
+  max-width: 400px !important; /* Map size control */
+  height: 250px !important;
+}
+
+
+
+
 }
