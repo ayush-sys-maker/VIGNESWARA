@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const sections = document.querySelectorAll(".specialtext, .specialCarousel , .customer , .CERTIFICATE , .abouttext ,.abouthead ,.customerText ,.CERTIFICATEText , .footer , .MenuCarousel , .Gallery  ,.pics , .writingsection  ");
+  const sections = document.querySelectorAll(".specialtext, .specialCarousel , .customer , .CERTIFICATE , .abouttext ,.abouthead ,.customerText ,.CERTIFICATEText , .footer , .MenuCarousel , .Gallery  ,.pics , .writingsection ,.insidefood  ");
 
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
