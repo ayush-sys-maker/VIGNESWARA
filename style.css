@@ -188,14 +188,14 @@ margin-top: 100px;
 
 
 .insidefood img{
-  max-width: 25px;
-  max-height: 25px;
+  max-width: 20px;
+  max-height: 20px;
 margin-left: 10px;
 
 }
 
 .insidefood p{
-  font-size:18px ;
+  font-size:15px ;
   margin-top: 10px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #fffafa;
@@ -208,8 +208,8 @@ margin-left: 10px;
  z-index: 1;
  top: 80%;
 
-  padding: 8px;
-  padding-bottom: 0px;
+  padding: 5px;
+ 
 }
 
 
